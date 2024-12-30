@@ -1,0 +1,9 @@
+name: deploy using TF
+
+on:
+  workflow_dispatch
+
+permisssions:
+  id-token: write
+  contents: read
+  
